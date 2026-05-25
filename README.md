@@ -14,6 +14,8 @@ Here are the gamemodes it can play and how well it plays it:
 | Dares | Yes | Good, but sometimes gives up |
 | Dash | Yes | Good |
 
+The bot can also submit words on the surveys in the lobby, and even vote for a gamemode (they always choose squares)
+
 ## How the fuck does it join the game???
 Easy, it just connects to the Ecast servers...
 just kidding, its not *THAT* easy.
