@@ -1315,7 +1315,7 @@ class JackboxMultiBotGUI:
         model = self.model_var.get()
 
         # Handle local Ollama requests cleanly
-        if provider == "Ollama (Local)":
+        if provider == "Ollama":
             base_url = api_key if api_key else "http://localhost:11434"
             base_url = base_url.rstrip("/")
             url = f"{base_url}/api/chat"
