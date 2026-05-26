@@ -1,6 +1,16 @@
 # Survey Scramble Bot
 A bot for The Jackbox Survey Scramble game.
 
+## Table of Contents
+- [What can it do?](#what-can-it-do)
+- [How does it join the game?](#how-the-fuck-does-it-join-the-game)
+- [How does it know if the room exists?](#how-does-it-know-if-the-room-even-exists)
+- [How does it answer questions?](#how-does-it-answer-questions)
+- [Can it play other Jackbox games?](#can-it-play-other-jackbox-games)
+- [Media/Showcase](#mediashowcase)
+- [Disclaimer](#this-code-is-ai-shit-so-i-fucking-hate-it)
+
+
 ## What can it do?
 It can play with other people, or other bots, in Survey Scramble games. You can spawn as many bots as your pc can handle, or the limit of Jackbox games (8-10 players, 10000 audience)
 
@@ -141,6 +151,13 @@ Had to build a bunch of custom filters and memory shit so the AI doesn't break t
 * The bots actually read if the game wants a "High" popularity or "Low" popularity answer and tells the AI to target super obvious words or obscure hipster garbage depending on the score. In Dares, it even knows what reference word it's comparing against... most of the time.
 ## Can it play other Jackbox games?
 No, but it *can* **join** them and waste a player space (or audience) so thats fun and cool (especially joining livestreams that dont have `twitchLocked` enabled!!!11!)
+
+## Media/Showcase
+UI:
+
+<img width="600" height="auto" alt="The UI" src="https://github.com/user-attachments/assets/df0030ef-dfbb-40bf-b828-e2bddb2391a5" />
+
+*Video showcase coming soon*
 
 ## This code is AI *SHIT* so *I FUCKING HATE IT!!!!*
 Yeah no fucking shit sherlock I'm ass at python, so I had to vibe code it.
