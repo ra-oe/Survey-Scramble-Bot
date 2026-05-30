@@ -6,7 +6,7 @@ A bot for The Jackbox Survey Scramble game.
 ## Table of Contents
 - [What can it do?](#what-can-it-do)
 - [ How the fuck does it join the game???](#how-the-fuck-does-it-join-the-game)
-- How does it know if the room even exists?](#how-does-it-know-if-the-room-even-exists)
+- [How does it know if the room even exists?](#how-does-it-know-if-the-room-even-exists)
 - [How does it answer questions?](#how-does-it-answer-questions)
 - [Can it play other Jackbox games?](#can-it-play-other-jackbox-games)
 - [Media/Showcase](#mediashowcase)
