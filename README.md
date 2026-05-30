@@ -1,10 +1,12 @@
 # Survey Scramble Bot
 A bot for The Jackbox Survey Scramble game.
 
+*Now, before we get into this, I want to explicitly say* ***I DO NOT SUPPORT ABUSE OF THIS BOT!*** *Please, dont abuse the bot to flood lobbies, it can ruin the game for others.*
+
 ## Table of Contents
 - [What can it do?](#what-can-it-do)
-- [How does it join the game?](#how-the-fuck-does-it-join-the-game)
-- [How does it know if the room exists?](#how-does-it-know-if-the-room-even-exists)
+- [ How the fuck does it join the game???](#how-the-fuck-does-it-join-the-game)
+- How does it know if the room even exists?](#how-does-it-know-if-the-room-even-exists)
 - [How does it answer questions?](#how-does-it-answer-questions)
 - [Can it play other Jackbox games?](#can-it-play-other-jackbox-games)
 - [Media/Showcase](#mediashowcase)
