@@ -10,7 +10,7 @@ A bot for The Jackbox Survey Scramble game.
 - [How does it answer questions?](#how-does-it-answer-questions)
 - [Can it play other Jackbox games?](#can-it-play-other-jackbox-games)
 - [Media/Showcase](#mediashowcase)
-- [Disclaimer](#this-code-is-ai-shit-so-i-fucking-hate-it)
+- [AI Disclaimer](#this-code-is-ai-shit-so-i-fucking-hate-it)
 
 
 ## What can it do?
