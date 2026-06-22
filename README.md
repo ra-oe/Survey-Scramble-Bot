@@ -1,6 +1,6 @@
 # Survey Scramble Bot
 A bot for The Jackbox Survey Scramble game.
-
+[JOIN MY DISCORD RIGHT NOW: https://discord.gg/mfmjRW7XTm](https://discord.gg/mfmjRW7XTm)
 *Now, before we get into this, I want to explicitly say* ***I DO NOT SUPPORT ABUSE OF THIS BOT!*** *Please, dont abuse the bot to flood lobbies, it can ruin the game for others that dont want a bot in their game.*
 
 ## Table of Contents
